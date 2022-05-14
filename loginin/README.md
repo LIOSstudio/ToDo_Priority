@@ -1,6 +1,5 @@
-# loginin
-
-A new Flutter project.
+# 플러터 리스트 우선순위화
+할 일을 설정하고, 그 할 일의 리스트를 우선순위화한다.
 
 ## Getting Started
 
